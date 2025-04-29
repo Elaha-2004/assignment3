@@ -1,0 +1,78 @@
+
+body{
+    font-family: Arial,sans-serif;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+h1{
+    font-size:zrem;
+    margin-bottom: 20px;
+}
+video-container{
+    border: 4px dashed rgb(138, 92, 6);
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 20px;
+    background-color: #802525;
+}
+.buttons button{
+    background-color: cadetblue;
+    color: white;
+    padding: 10px20px;
+    border:none ;
+    box-shadow: 0 0 20px#ffd700;
+    background-color: rgba(0, 0,0, 0.8);
+}
+video{
+    width: 80%;
+    margin: 20px 0;
+    border:3px solid #fff ;
+    border-radius: 10px;
+}
+.buttons button:hover{
+    background-color: orangered;
+}
+.marquee{
+    background-color: darkred;
+    color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.navbar{
+    background-color: #0b1c53;
+    overflow: hidden;
+}
+.navbarul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.navbar li{
+    padding: 14px 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.navbar a:hover{
+    background-color: #555;
+    color: yellow;
+}
+.gallery img{
+    width:400px;
+    margin:10px;
+    border:2px solid #ccc;
+}
+section
+.tagesschrift-regular {
+    font-family: "Tagesschrift", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
